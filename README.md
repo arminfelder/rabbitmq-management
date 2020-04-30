@@ -1,3 +1,6 @@
+[![OTP v21.3](https://img.shields.io/github/workflow/status/rabbitmq/rabbitmq-management/OTP%20v21.3?label=OTP%20v21.3)](https://github.com/rabbitmq/rabbitmq-management/actions?query=workflow%3A%22OTP+v21.3%22)
+[![OTP v22.3](https://img.shields.io/github/workflow/status/rabbitmq/rabbitmq-management/OTP%20v22.3?label=OTP%20v22.3)](https://github.com/rabbitmq/rabbitmq-management/actions?query=workflow%3A%22OTP+v22.3%22)
+
 # RabbitMQ Management Plugin
 
 This plugin provides a management UI and HTTP API for RabbitMQ.
