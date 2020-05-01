@@ -1,5 +1,5 @@
 # https://help.github.com/en/actions/configuring-and-managing-workflows/configuring-a-workflow
-name: "Test: Erlang/OTP v21.3"
+name: "Test - Erlang 21.3"
 on: push
 jobs:
   checks:
