@@ -1,5 +1,5 @@
-[![Test: Erlang/OTP v21.3](https://github.com/rabbitmq/rabbitmq-management/workflows/Test:%20Erlang/OTP%20v21.3/badge.svg)](https://github.com/rabbitmq/rabbitmq-management/actions?query=workflow%3A%22Test%3A+Erlang%2FOTP+v21.3%22)
-[![Test: Erlang/OTP v22.3](https://github.com/rabbitmq/rabbitmq-management/workflows/Test:%20Erlang/OTP%20v22.3/badge.svg)](https://github.com/rabbitmq/rabbitmq-management/actions?query=workflow%3A%22Test%3A+Erlang%2FOTP+v22.3%22)
+[![OTP v21.3](https://img.shields.io/github/workflow/status/rabbitmq/rabbitmq-management/Test%20-%20Erlang%2021.3?label=Erlang%2021.3)](https://github.com/rabbitmq/rabbitmq-management/actions?query=workflow%3A%22Test+-+Erlang+21.3%22)
+[![OTP v22.3](https://img.shields.io/github/workflow/status/rabbitmq/rabbitmq-management/Test%20-%20Erlang%2022.3?label=Erlang%2022.3)](https://github.com/rabbitmq/rabbitmq-management/actions?query=workflow%3A%22Test+-+Erlang+22.3%22)
 
 # RabbitMQ Management Plugin
 
